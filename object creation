@@ -1,0 +1,8 @@
+<script type="text/javascript">
+var obj = new Object(); 
+obj.firstName = "Geeks"; 
+obj.middleName = "for"; 
+obj.lastName = "Geeks"; 
+obj.isTeaching = "Javascipt"; 
+obj.greet = function() { console.log("Hi"); } 
+</script>
